@@ -1,0 +1,10 @@
+- Blinkt has 7 controllable pixels.
+- Considered Range 0 to 28
+- Each pixel will report up to 4 degrees.
+- For each pixel degree diferenciator. 1:Blue, 2: Yellow, 3:Orange 4:Considered
+- If below 0 all pixels will be cold Blue
+- If abov 28 all pixels colored warm red
+- Weather query every 30 minuts
+- Logged on console each query
+- Start program at raspPi startup, no need to ssh.
+
