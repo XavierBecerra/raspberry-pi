@@ -1,0 +1,1 @@
+This repository is meant to allocate different Raspberry-Pi oriented projects
